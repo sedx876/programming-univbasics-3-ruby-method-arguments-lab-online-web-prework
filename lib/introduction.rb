@@ -1,2 +1,2 @@
 name = "Josh"
-"Hi, my name is #{name}"
+p "Hi, my name is #{name}"
