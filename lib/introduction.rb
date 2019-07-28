@@ -10,3 +10,5 @@ end
 
 introduction("Dan")
 
+name = "Josh"
+introduction(name)
