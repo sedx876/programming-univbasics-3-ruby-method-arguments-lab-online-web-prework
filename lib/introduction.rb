@@ -1,7 +1,7 @@
-name = "Josh"
+name = ("Josh")
 puts "Hi, my name is #{name}\n"
 
-name = "Dan"
+name = ("Dan")
 puts "Hi, name is #{name}\n"
 
 
