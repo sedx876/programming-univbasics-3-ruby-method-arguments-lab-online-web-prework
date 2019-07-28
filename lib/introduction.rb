@@ -1,8 +1,8 @@
 name = ("Josh")
-puts "Hi, my name is #{name}\n"
+puts "Hi, my name is #{name}"
 
 name = ("Dan")
-puts "Hi, name is #{name}\n"
+puts "Hi, name is #{name}"
 
 
 name = "Dan"
