@@ -1,8 +1,8 @@
 name = "Josh"
-puts "Hi, my name is #{name}"
+puts "Hi, my name is #{name}\n"
 
 name = "Dan"
-puts "Hi, name is #{name}"
+puts "Hi, name is #{name}\n"
 
 name = "Dan"
 language = "Ember.js"
